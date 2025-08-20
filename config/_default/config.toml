@@ -1,0 +1,5 @@
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[params]
+  show_language_switcher = false

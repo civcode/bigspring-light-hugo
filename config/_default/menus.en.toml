@@ -1,0 +1,78 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 4
+
+[[main]]
+name = "Services"
+url = "/services"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 3
+
+[[main]]
+name = "FAQ"
+url = "/faq"
+weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "About"
+# url = "#"
+url = "/pricing"
+# weight = 1
+
+# [[footer_left]]
+# name = "Quick Start"
+# url = "#"
+
+[[footer_left]]
+name = "Legal Notice / Imprint"
+url = "/pricing"
+# weight = 2
+
+[[footer_left]]
+name = "Terms of Use / AGB"
+url = "/pricing"
+# weight = 3
+
+[[footer_left]]
+name = "Privacy Statement"
+url = "/pricing"
+# weight = 4
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Pricing"
+url = "/pricing"
+
+[[footer_middle]]
+name = "Platform"
+url = "#"
+
+[[footer_middle]]
+name = "Features"
+url = "#"
+
+# footer menu right
+[[footer_right]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "/terms-conditions"
+
+[[footer_right]]
+name = "FAQ"
+url = "/faq"
