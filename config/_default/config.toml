@@ -1,5 +1,6 @@
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+canonifyURLs = true
 
 [params]
   show_language_switcher = false
