@@ -1,8 +1,9 @@
 ######################## default configuration ####################
 # baseURL = "https://demo.gethugothemes.com/bigspring/site/"
-baseURL = "https://civcode.github.io/bigspring-light-hugo/"
+# baseURL = "https://civcode.github.io/bigspring-light-hugo/"
+baseURL = "http://mele.local:1313/"
 # title = "Bigspring Light"
-title = "Roth Software"
+title = "ROTH Software"
 theme = "bigspring-light"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
